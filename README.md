@@ -1,4 +1,5 @@
 # EmpDet
+* Create a database in MySQL Workbench as task2, create employee and address tables in it.
 * Open the project in STS and Run it.
 * Open Postman, 
 * For Adding Employee details(POST) add the details in the format below in Body tab, raw format:
